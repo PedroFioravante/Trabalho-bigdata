@@ -1,0 +1,21 @@
+account_id,frequencia,ticket_medio_winsor,taxa_outlier,cluster,nome_cluster
+ACC_001,64,181.9393928479288,0.046875,0,Atividade intermediária e menor atipicidade média
+ACC_002,61,208.39513013928985,0.01639344262295082,0,Atividade intermediária e menor atipicidade média
+ACC_003,82,191.69278175020452,0.0,0,Atividade intermediária e menor atipicidade média
+ACC_004,60,171.9607834755957,0.05,0,Atividade intermediária e menor atipicidade média
+ACC_005,77,209.8011458911999,0.0,0,Atividade intermediária e menor atipicidade média
+ACC_006,84,224.72595189664537,0.011904761904761904,0,Atividade intermediária e menor atipicidade média
+ACC_007,81,241.67980997913904,0.012345679012345678,0,Atividade intermediária e menor atipicidade média
+ACC_008,70,186.49671665312937,0.0,0,Atividade intermediária e menor atipicidade média
+ACC_009,78,181.14158775187303,0.01282051282051282,0,Atividade intermediária e menor atipicidade média
+ACC_010,75,198.9963501640692,0.02666666666666667,0,Atividade intermediária e menor atipicidade média
+ACC_011,71,186.9825961036533,0.028169014084507043,0,Atividade intermediária e menor atipicidade média
+ACC_012,82,212.04289000016692,0.024390243902439025,0,Atividade intermediária e menor atipicidade média
+ACC_013,81,251.40201768314157,0.0,0,Atividade intermediária e menor atipicidade média
+ACC_014,65,217.80917955697882,0.07692307692307693,0,Atividade intermediária e menor atipicidade média
+ACC_015,124,832.243065661405,0.1774193548387097,1,Alta atividade e maior atipicidade média
+ACC_016,111,653.4025383652627,0.17117117117117117,1,Alta atividade e maior atipicidade média
+ACC_017,150,621.8267385909269,0.2,1,Alta atividade e maior atipicidade média
+ACC_018,28,22.294379113442023,0.0,2,Baixa atividade e baixo ticket
+ACC_019,30,26.532742666655412,0.03333333333333333,2,Baixa atividade e baixo ticket
+ACC_020,26,34.11312778014321,0.11538461538461539,2,Baixa atividade e baixo ticket
